@@ -10,7 +10,13 @@ https://www.kissamosnews.com/covid-19-vaccinations-in-crete-and-chania/
 - Absolute number of vaccinated people
 - Percentage of vaccinated population
 
+### Example plot for all regions of Crete: 5 day average of confirmed Covid-19 cases per 100,000 people
+
+<iframe src="https://www.kissamosnews.com/covidcasescretenormalized.html" width="100%" height="800"> </iframe>
+
 Data sources:
+
 https://eody.gov.gr/
+
 https://www.covid19response.gr/index_en.html
 
