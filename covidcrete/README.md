@@ -2,12 +2,13 @@
 
 ## Source code for Covid-19 plots for Crete, Chania province and Greece
 
+https://www.kissamosnews.com/covid-19-confirmed-cases-in-crete-and-chania/
 - Absolute number of confirmed cases
 - 5 day average of confirmed cases per 100,000 people
-https://www.kissamosnews.com/covid-19-confirmed-cases-in-crete-and-chania/
+
+https://www.kissamosnews.com/covid-19-vaccinations-in-crete-and-chania/
 - Absolute number of vaccinated people
 - Percentage of vaccinated population
-https://www.kissamosnews.com/covid-19-vaccinations-in-crete-and-chania/
 
 Data sources:
 https://eody.gov.gr/
