@@ -14,7 +14,7 @@ https://www.kissamosnews.com/covid-19-vaccinations-in-crete-and-chania/
 
 
 <a href="https://www.kissamosnews.com/covidcaseswholecretenormalized.html" target="_blank"><img src="bokeh/Covid-cases-Crete.png" 
-alt="Covid-19 in Crete Plot" width="100%" height="800" /></a>
+alt="Covid-19 in Crete Plot" /></a>
 
 
 Data sources:
