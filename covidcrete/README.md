@@ -12,7 +12,10 @@ https://www.kissamosnews.com/covid-19-vaccinations-in-crete-and-chania/
 
 ### Example plot for all regions of Crete: 5 day average of confirmed Covid-19 cases per 100,000 people
 
-<iframe src="https://www.kissamosnews.com/covidcasescretenormalized.html" width="100%" height="800"> </iframe>
+
+<a href="https://www.kissamosnews.com/covidcaseswholecretenormalized.html" target="_blank"><img src="bokeh/Covid-cases-Crete.png" 
+alt="Covid-19 in Crete Plot" width="100%" height="800" /></a>
+
 
 Data sources:
 
